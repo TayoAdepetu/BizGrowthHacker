@@ -338,7 +338,7 @@
                 width:40%;
                 background:#FFFFFF;
                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-                padding:6px;
+                padding:15px;
                 margin-top:10px;
                 margin-bottom:10px;
             }
