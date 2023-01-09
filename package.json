@@ -17,6 +17,10 @@
         "vue": "^3.2.36"
     },
     "dependencies": {
+        "-": "^0.0.1",
+        "g": "^2.0.1",
+        "nodejs": "*",
+        "npm": "^9.2.0",
         "vue-loader": "^17.0.1",
         "vue-material-design-icons": "^5.1.2"
     }
