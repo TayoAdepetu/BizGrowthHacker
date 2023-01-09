@@ -5,6 +5,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
         <title>BizGrowthHacker: Content That Breathe Life Into Your Business</title>
 
         <!-- Fonts -->
