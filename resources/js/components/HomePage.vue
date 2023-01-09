@@ -149,7 +149,7 @@
             <div class="service-side">
                 <div>
                 <h3 class="service-title">Social Media Management Services</h3>
-                <img class="service-image" src="/images/Tayo-Adepetu-Social-Media-Marketing.jpg" alt="Tayo-Adepetu-Social--Media-Marketing, image taken from https://www.vecteezy.com/free-vector/social-media">
+                <img class="service-image" src="/images/Tayo-Adepetu-Social-media-marketing.jpg" alt="Tayo-Adepetu-Social--Media-Marketing, image taken from https://www.vecteezy.com/free-vector/social-media">
                 <p class="service-tips">Increase Brand Awareness + Increase Social Engagement + Get More Leads + Increase Conversion Rate
                 </p>
                 </div>
