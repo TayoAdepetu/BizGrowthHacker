@@ -225,27 +225,25 @@
                 font-style: italic;
                 font-weight: 500;
                 font-size: 22px;
-                line-height: 36px;
                 color: #FFFFFF;
             }
 
             .testy-name{
-                height: 30px;
                 font-family: 'Lato';
                 font-style: normal;
                 font-weight: 700;
                 font-size: 25px;
                 line-height: 30px;
                 color: #FFFFFF;
+                padding:5px;
             }
 
             .testy-firm{
-                height: 44px;
                 font-family: 'Inter';
                 font-style: normal;
                 font-weight: 500;
                 font-size: 16px;
-                line-height: 22px;
+                padding:5px;
                 color: rgba(255, 255, 255, 0.8);
             }
 
@@ -262,8 +260,6 @@
             .call-head{
                 font-weight: 600;
                 font-size: 40px;
-                line-height: 116%;
-                letter-spacing: -0.03em;
                 color: #171648;
                 text-align:center;
                 
@@ -273,7 +269,6 @@
                 font-weight: 400;
                 font-size: 16px;
                 text-align: center;
-                letter-spacing: 0.01em;
                 color: #171648;
                 margin-top:10px;               
             }

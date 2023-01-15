@@ -6,7 +6,7 @@
                 <div class="menu-bar">
                     <div class="page-header">Business Growth Hacker</div>
                     <div class="menu-menu">
-                        <div class="service-page">Services</div>
+                        <!--<div class="service-page">Services</div>-->
                         <div class="work-page-border">Work With Me</div>
                     </div>
                 </div>
