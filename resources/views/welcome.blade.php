@@ -33,7 +33,7 @@
 
             .menuuu{
                 display:block;
-                width:90%;
+                width:100vw;
                 background:white;
                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
                 margin-right:auto;
@@ -87,6 +87,7 @@
                 margin-right:auto;
                 margin-left:auto;
                 column-gap:30px;
+                
 
             }
 
@@ -94,18 +95,19 @@
             }
 
             .my-image{
-
+                height:500px;
             }
 
             .myself-img{
-                width:400px;
+                height:100%;
+                width:
             }
 
             .hit-line{
                 font-family: 'Inter';
                 font-style: normal;
                 font-weight: 600;
-                font-size: 60px;
+                font-size: 50px;
                 color: #00A237;
             }
 
@@ -194,10 +196,11 @@
                 font-style: normal;
                 font-weight: 400;
                 font-size: 20px;
-                text-align: center;
                 color: #475467;
                 margin-right:auto;
                 margin-left:auto;
+                text-align:justify;
+                word-spacing: normal;
             }
 
             .testimonial{
@@ -294,11 +297,10 @@
 
             .footnote{
                 /*vertical and horizontal center:https://www.w3schools.com/howto/howto_css_center-vertical.asp */
-                
                 font-family: 'Inter';
                 font-style: normal;
                 font-weight: 700;
-                font-size: 18px;
+                font-size: 10px;
                 color: #FFFFFF;
                 padding:3%;
                 text-align:center;
@@ -358,64 +360,60 @@
                 text-align:center;
             }
 
-            @media screen and (max-width: 1050px) {
+            @media screen and (max-width: 1125px) {
                 .myself-img{
-                    height:700px;
+                    
+                }
+
+                .the-hero{
+
                 }
 
             }
 
-            @media screen and (max-width: 1200px) {
-                .myself-img{
-                    height:600px;
+            @media screen and (max-width: 1033px) {
+                .hit-line{
+                    font-size:45px;
                 }
 
             }
 
-            @media screen and (max-width: 900px) {
-                .myself-img{
-                    height:800px;
-                    width:400px;
+            @media screen and (max-width: 983px) {
+                .hit-line{
+                    font-size:40px;
                 }
 
             }
 
-            @media screen and (max-width: 820px) {
-                .myself-img{
-                    height:1000px;
-                    width:400px;
+            @media screen and (max-width: 928px) {
+                .hit-line{
+                    font-size:35px;
                 }
 
             }
 
-            @media screen and (max-width: 760px) {
-                .myself-img{
-                    height:1020px;
-                    width:400px;
+            @media screen and (max-width: 880px) {
+                .hit-line{
+                    font-size:30px;
                 }
 
             }
 
-            @media screen and (max-width: 740px) {
+            @media screen and (max-width: 833px) {
                 .myself-img{
-                    height:1040px;
-                    width:400px;
+                    width:300px;
                 }
 
             }
 
-            @media screen and (max-width: 725px) {
+            @media screen and (max-width: 667px) {
                 .myself-img{
-                    height:1200px;
-                    width:400px;
+                    display:none;
                 }
 
             }
 
             @media screen and (max-width: 700px) {
-                .myself-img{
-                    display:none;
-                }
 
                 .first-flex{
                     width:95%;
@@ -458,20 +456,8 @@
                 }
 
             }
-
-            @media screen and (max-width: 500px) {
-                .grid-container{
-                    grid-template-columns: auto;
-                    max-width: 80%;   
-                }
-            }
-
-            @media screen and (max-width: 360px) {
-            .grid-container{
-                grid-template-columns: auto;
-                max-width: 90%;   
-            }
-            }
+            
+            
         </style>
     </head>
     <body class="antialiased">
