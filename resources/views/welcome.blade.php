@@ -115,7 +115,7 @@
                 font-family: 'Inter';
                 font-style: normal;
                 font-weight: 400;
-                font-size: 20px;
+                font-size: 18px;
                 color: #475467;
                 margin-top:25px;
             }
@@ -195,7 +195,7 @@
                 font-family: 'Inter';
                 font-style: normal;
                 font-weight: 400;
-                font-size: 20px;
+                font-size: 18px;
                 color: #475467;
                 margin-right:auto;
                 margin-left:auto;

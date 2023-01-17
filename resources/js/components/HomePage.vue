@@ -213,7 +213,7 @@
         <div class="called">
                 <div class="call-head"> Let’s work together! </div>
                 <div class="calling-long">
-                    Find the right audience, put your mind at rest while I focus on doing the great job for you.
+                    Put your mind at rest while I focus on doing the copywriting job for you.
                 </div>
                 <div class="last-call-to-action">Work With Me</div>
         </div>
