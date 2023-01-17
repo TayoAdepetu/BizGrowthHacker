@@ -2,16 +2,16 @@
     <div class="page-container">
 
         <div class="top-area">
-            <div class="menuuu">
+           <div class="menuuu">
                 <div class="menu-bar">
                     <div class="page-header">Business Growth Hacker</div>
                     <div class="menu-menu">
-                        <!--<div class="service-page">Services</div>-->
+                        <div class="service-page">Services</div>
                         <div class="work-page-border">Work With Me</div>
                     </div>
                 </div>
             </div>
-           
+        
             <div class="the-hero">
                 <div class="first-flex">
                     <div class="hit-line">
@@ -188,7 +188,7 @@
 
         <div class="testy-call">
             <div class="testimonial">
-                <div class="testimonial-headline">Testimonials</div>
+                <!--<div class="testimonial-headline">Testimonials</div>-->
                 <div class="testimony">
                     <div>
                         "Tayo was extremely communicative, creative, and he really has a way with words! 

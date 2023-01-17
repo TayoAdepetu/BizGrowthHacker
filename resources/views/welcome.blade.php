@@ -33,9 +33,9 @@
 
             .menuuu{
                 display:block;
-                width:100vw;
+                width:100%;
                 background:white;
-                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+               /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
                 margin-right:auto;
                 margin-left:auto;
             }
@@ -43,13 +43,12 @@
             .menu-menu{
                 display:flex;
                 margin-right:1%;
-                font-weight: 500; 
-                margin-top:auto;
-                margin-bottom:auto;               
+                font-weight: 700; 
+                align-items: center;
             }
 
             .top-area{
-                width: 100vw;
+                width: 100%;
                 display:block;
                 margin-top:auto;
                 margin-left:auto;
@@ -70,6 +69,7 @@
                 padding: 10px;
                 color: #FF8A1F;
                 margin-right:12px;
+                text-align:center;
             }
 
             .work-page-border{
@@ -191,7 +191,7 @@
 
             .money-intro{
                 margin-top:10px;
-                width:50%;
+                width:80%;
                 font-family: 'Inter';
                 font-style: normal;
                 font-weight: 400;
@@ -215,15 +215,14 @@
                 font-style: normal;
                 font-weight: 600;
                 font-size: 45px;
-                line-height: 116%;
-                letter-spacing: -0.03em;
                 color: #FFFFFF;
             }
 
             .testimony{
                 margin-right:auto;
                 margin-left:auto;
-                width:50%;
+                padding-top:10px;
+                width:70%;
                 font-family: 'Inter';
                 font-style: italic;
                 font-weight: 500;
@@ -236,7 +235,6 @@
                 font-style: normal;
                 font-weight: 700;
                 font-size: 25px;
-                line-height: 30px;
                 color: #FFFFFF;
                 padding:5px;
             }
@@ -349,7 +347,6 @@
                 font-style: normal;
                 font-size:18px;
                 color: #475467;
-
             }
 
             .service-tips{
@@ -376,11 +373,67 @@
                     font-size:45px;
                 }
 
+                .money-hit-line{
+                    font-size:35px;
+                }
+
+                .service-title{
+                    font-size:30px;
+                }
+
+                .service-tips{
+                    font-size:15px;
+                }
+
+                .testimonial-headline{
+                    font-size:30px;
+                }
+
+                .testimony{
+                    font-size:19px;
+                }
+
+                .testy-name{
+                    font-size:19px;
+                }
+
+                .testy-firm{
+                    font-size:14px;
+                }
+
             }
 
             @media screen and (max-width: 983px) {
                 .hit-line{
                     font-size:40px;
+                }
+
+                .money-hit-line{
+                    font-size:30px;
+                }
+
+                .service-title{
+                    font-size:25px;
+                }
+
+                .testimonial-headline{
+                    font-size:25px;
+                }
+
+                .testimony{
+                    font-size:15px;
+                }
+
+                .testy-name{
+                    font-size:15px;
+                }
+
+                .testy-name{
+                    font-size:15px;
+                }
+
+                .testy-firm{
+                    font-size:12px;
                 }
 
             }
@@ -397,6 +450,10 @@
                     font-size:30px;
                 }
 
+                .service-align{
+                    font-size:15px;
+                }
+
             }
 
             @media screen and (max-width: 833px) {
@@ -406,14 +463,10 @@
 
             }
 
-            @media screen and (max-width: 667px) {
-                .myself-img{
-                    display:none;
-                }
-
-            }
-
             @media screen and (max-width: 700px) {
+                .myself-img{
+                    width:200px;
+                }
 
                 .first-flex{
                     width:95%;
@@ -437,13 +490,20 @@
                 }
 
                 .top-area{
-                    width:80%;
+                    width:100%;
                     margin-right:auto;
                     margin-left:auto;
                 }
 
                 .service-side{
                     width:80%;
+                }
+
+            }
+            
+            @media screen and (max-width: 667px) {
+                .myself-img{
+                    display:none;
                 }
 
             }
